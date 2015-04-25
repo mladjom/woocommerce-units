@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2015-03-26 09:20+0100\n"
+"PO-Revision-Date: 2015-03-26 09:23+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: da_DK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/writepanel-product_data.php:20 admin/writepanel-product_data.php:62
+msgid "Area"
+msgstr "Areal"
+
+#: admin/writepanel-product_data.php:24
+msgid "Enter the package area here."
+msgstr ""
+
+#: admin/writepanel-product_data.php:62
+msgid "Enter the package area here"
+msgstr ""
+
+#: unit.php:93
+msgid "units in stock"
+msgstr ""
+
+#: unit.php:93
+msgid "in stock"
+msgstr ""
+
+#: unit.php:162
+msgid "Per unit "
+msgstr ""
+
+#: unit.php:163
+msgid " Unit cost"
+msgstr ""
+
+#: unit.php:204
+msgid "Area needed"
+msgstr ""
+
+#: unit.php:210
+msgid "Waste count"
+msgstr ""
